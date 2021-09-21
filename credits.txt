@@ -3,4 +3,7 @@ E404NNF (shota) - Creating the Piglin Leather textures
 tygical - Creating older style wood variant textures
 zippa - Lightmap tweaking
 
+PlanetMinecraft:monsterfart77 for creating the pack "Classic Alternative", which the base pack uses multiple textures and strings from
+YouTube:sameythehedgie for the classic panorama background (from Vanilla Tweaks)
+
 Any missing person should contact ASAP!
