@@ -1,6 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "builtin/generated",
+  "textures": {
+    "missing": "minecraft:block/air"
+  },
 	"elements": [
 		{
 			"from": [0, 0, 7.5],
