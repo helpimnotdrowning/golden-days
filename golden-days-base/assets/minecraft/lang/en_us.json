@@ -1,43 +1,40 @@
 {
   "options.resourcepack": "Mods and Texture Packs...",
+  
   "resourcePack.openFolder": "Open Texture Pack Folder",
-  "resourcePack.title": "Use Nostalgic Tweaks for the best experience!",
   "resourcePack.available.title": "Available Texture Packs",
   "resourcePack.selected.title": "Selected Texture Packs",
   "resourcePack.folderInfo": "(Place texture pack files here)",
+  "resourcePack.title": "Select Texture Packs",
+  
+  "block.minecraft.poppy": "Rose",
+  "block.minecraft.sugar_cane": "Reeds",
+  "block.minecraft.potted_poppy": "Potted Rose",
   "block.minecraft.grass": "Grass",
   "block.minecraft.fern": "Fern",
   "block.minecraft.dandelion": "Flower",
-  "block.minecraft.poppy": "Rose",
-  "block.minecraft.sugar_cane": "Reeds",
-  "block.minecraft.potted_dandelion": "Potted Flower",
-  "block.minecraft.potted_poppy": "Potted Rose",
-  "block.minecraft.ancient_debris": "Netherite Ore",
-  "block.minecraft.crimson_nylium": "Crimson Nethergrass",
-  "block.minecraft.warped_nylium": "Warped Nethergrass",
-  "block.minecraft.crimson_fungus": "Crimson Mushroom",
-  "block.minecraft.warped_fungus": "Warped Mushroom",
-  "block.minecraft.crimson_stem": "Crimson Log",
-  "block.minecraft.warped_stem": "Warped Log",
-  "block.minecraft.stripped_crimson_stem": "Stripped Crimson Log",
-  "block.minecraft.stripped_warped_stem": "Stripped Warped Log",
-  "block.minecraft.crimson_hyphae": "Crimson Wood",
-  "block.minecraft.warped_hyphae": "Warped Wood",
   "block.minecraft.mangrove_propagule": "Mangrove Sapling",
-  "chat.type.advancement.task": "%s got achievement %s",
-  "chat.type.advancement.challenge": "%s got challenge %s",
-  "chat.type.advancement.goal": "%s got goal %s",
+  "block.minecraft.redstone_wire": "Redstone Dust",
+  "block.minecraft.crafting_table": "Workbench",
+  "block.minecraft.bed.no_sleep": "You can sleep only at night and during thunderstorms",
+  "block.minecraft.spawn.not_valid": "Your home bed or charged respawn anchor was missing or obstructed",
+  
   "item.minecraft.zombified_piglin_spawn_egg": "Zombie Pigman Spawn Egg",
   "item.minecraft.piglin_spawn_egg": "Pigman Spawn Egg",
   "item.minecraft.piglin_brute_spawn_egg": "Pigman Brute Spawn Egg",
+  "item.minecraft.gunpowder": "Sulphur",
+  "item.minecraft.wheat_seeds": "Seeds",
+  "item.minecraft.redstone": "Redstone",
+  "item.minecraft.clay_ball": "Clay",
+  "item.minecraft.music_disc_wait.desc": "C418 - where are we now",
+  "item.minecraft.red_dye": "Rose Red",
+  "item.minecraft.green_dye": "Cactus Green",
+  "item.minecraft.yellow_dye": "Dandelion Yellow",
+  
   "entity.minecraft.zombified_piglin": "Zombie Pigman",
   "entity.minecraft.piglin": "Pigman",
   "entity.minecraft.piglin_brute": "Pigman Brute",
-  "key.advancements": "Achievements",
-  "gui.advancements": "Achievements",
-  "advancements.toast.task": "Achievement Get!",
-  "advancements.toast.challenge": "Challenge Get!",
-  "advancements.toast.goal": "Goal Get!",
+  
   "subtitles.entity.piglin.admiring_item": "Pigman admires item",
   "subtitles.entity.piglin.ambient": "Pigman snorts",
   "subtitles.entity.piglin.angry": "Pigman snorts angrily",
@@ -54,5 +51,69 @@
   "subtitles.entity.piglin_brute.hurt": "Pigman Brute hurts",
   "subtitles.entity.piglin_brute.step": "Pigman Brute steps",
   "subtitles.entity.piglin_brute.converted_to_zombified": "Pigman Brute converts to Zombie Pigman",
-  "container.chestDouble": "Large chest"
+  
+  "container.chestDouble": "Large chest",
+  
+  "gui.toTitle": "Back to title screen",
+  "gui.toMenu": "Back to server list",
+  "gui.recipebook.moreRecipes": "Right Click for more",
+  "gui.recipebook.toggleRecipes.all": "Showing all",
+  "gui.recipebook.toggleRecipes.craftable": "Showing craftable",
+  "gui.recipebook.toggleRecipes.smeltable": "Showing smeltable",
+  "gui.recipebook.toggleRecipes.blastable": "Showing blastable",
+  "gui.recipebook.toggleRecipes.smokable": "Showing smokable",
+  
+  "menu.online": "Realms",
+  
+  "selectWorld.tooltip.snapshot1": "Don't forget to backup this world",
+  "selectWorld.gameMode.hardcore.line1": "Same as survival mode, locked at hardest",
+  "selectWorld.gameMode.adventure.line1": "Same as survival mode, but blocks can't",
+  
+  "generator.minecraft.amplified.info": "Notice: Just for fun, requires beefy computer",
+  
+  "selectServer.direct": "Direct Connect",
+  
+  "multiplayer.downloadingStats": "Downloading statistics...",
+  "multiplayer.status.request_handled": "Status requst has been handled",
+  "multiplayer.disconnect.outdated_client": "Outdated client! Please use %s",
+  "multiplayer.disconnect.outdated_server": "Outdated server! I'm still on %s",
+  
+  "chat.type.advancement.task": "%s has achieved %s",
+  "chat.link.open": "Open in browser",
+  
+  "demo.day.1": "This demo will last five game days, do your best!",
+  "demo.day.6": "You have passed your fifth day, use %s to save a screenshot of your creation.",
+  "demo.help.fullWrapped": "This demo will last 5 ingame days (about 1 hour and 40 minutes of real time). Check the achievements for hints! Have fun!",
+  
+  "record.nowPlaying": "Now playing: %s",
+  
+  "key.swapOffhand": "Swap Item In Hands",
+  "key.advancements": "Achievements",
+  
+  "deathScreen.spectate": "Spectate world",
+  "deathScreen.titleScreen": "Title screen",
+  
+  "deathScreen.title.hardcore": "Game over!",
+  "deathScreen.title": "You died!",
+  "deathScreen.leaveServer": "Leave server",
+  
+  "gui.advancements": "Achievements",
+  
+  "advancements.toast.task": "Achievement get!",
+  "advancements.toast.challenge": "Challenge get!",
+  "advancements.toast.goal": "Goal get!",
+  
+  "mount.onboard": "Press %1$s to dismount",
+  
+  "item.modifiers.mainhand": "When in main hand:",
+  "item.modifiers.offhand": "When in off hand:",
+  "item.modifiers.feet": "When on feet:",
+  "item.modifiers.legs": "When on legs:",
+  "item.modifiers.chest": "When on body:",
+  "item.modifiers.head": "When on head:",
+  
+  "argument.criteria.invalid": "Unknown criteria '%s'",
+  
+  "biome.minecraft.nether_wastes": "Hell"
 }
+
